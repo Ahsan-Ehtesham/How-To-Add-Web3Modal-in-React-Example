@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/How-To-Add-Web3Modal-in-React-Example/static/css/main.6beb96b6.chunk.css",
+    "main.js": "/How-To-Add-Web3Modal-in-React-Example/static/js/main.7fecb339.chunk.js",
+    "main.js.map": "/How-To-Add-Web3Modal-in-React-Example/static/js/main.7fecb339.chunk.js.map",
+    "runtime-main.js": "/How-To-Add-Web3Modal-in-React-Example/static/js/runtime-main.8728ac9a.js",
+    "runtime-main.js.map": "/How-To-Add-Web3Modal-in-React-Example/static/js/runtime-main.8728ac9a.js.map",
+    "static/js/2.2a874c66.chunk.js": "/How-To-Add-Web3Modal-in-React-Example/static/js/2.2a874c66.chunk.js",
+    "static/js/2.2a874c66.chunk.js.map": "/How-To-Add-Web3Modal-in-React-Example/static/js/2.2a874c66.chunk.js.map",
+    "static/js/3.b71fda9a.chunk.js": "/How-To-Add-Web3Modal-in-React-Example/static/js/3.b71fda9a.chunk.js",
+    "static/js/3.b71fda9a.chunk.js.map": "/How-To-Add-Web3Modal-in-React-Example/static/js/3.b71fda9a.chunk.js.map",
+    "index.html": "/How-To-Add-Web3Modal-in-React-Example/index.html",
+    "static/css/main.6beb96b6.chunk.css.map": "/How-To-Add-Web3Modal-in-React-Example/static/css/main.6beb96b6.chunk.css.map",
+    "static/js/2.2a874c66.chunk.js.LICENSE.txt": "/How-To-Add-Web3Modal-in-React-Example/static/js/2.2a874c66.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/How-To-Add-Web3Modal-in-React-Example/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8728ac9a.js",
+    "static/js/2.2a874c66.chunk.js",
+    "static/css/main.6beb96b6.chunk.css",
+    "static/js/main.7fecb339.chunk.js"
+  ]
+}
